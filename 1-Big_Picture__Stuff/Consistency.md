@@ -6,7 +6,11 @@
   - One Explicit/Salty
   - One Clean
 - End with something fun
-  - A bit of art history or critique
+  - Learning the techie stuff just sort of takes all the passion out
+  - Offer encouragement, try to get the blood flowing again
+  - Other videos are so *dry*, because the topic is *dry*
+  - Perhaps bit of art history or critique of current events
+    - **Try to be humourous, make it entertaining, like Lewis Black**
     - Perhaps a fun quote, historical anectdote, review, etc.
   - Considering doing this while wearing my:
     - *Daft Punky Grateful Dead Motorcyle Rant Helmet*
