@@ -6,11 +6,12 @@
   - One Explicit/Salty
   - One Clean
 - End with something fun
-  - A fun quote, anectdote, review, etc.
+  - A bit of art history or critique
+    - Perhaps a fun quote, historical anectdote, review, etc.
   - Considering doing this while wearing my:
-    - *Daft Punk Grateful Dead Motorcyle Helmet*
+    - *Daft Punky Grateful Dead Motorcyle Rant Helmet*
   - Maybe call it my:
-    - *"Daft Punk Grateful Dead Motorcyle Helmet"* Segment
+    - *"Daft Punky Grateful Dead Rant Helmet Segment"*
   - Maybe end it with a *"Homework Assignment"*
     - For example, in the first episode assign watching the movie
 [*Daft Punk Unchained*](https://www.imdb.com/title/tt3833822) as "Homework"
