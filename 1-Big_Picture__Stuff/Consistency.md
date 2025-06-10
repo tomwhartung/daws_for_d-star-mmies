@@ -1,10 +1,26 @@
 
 # Consistency.md
 
+## Big Picture
+
+I want to do a series, rather like a TV series.  The pilot must set the tone, etc:
+
+-  See the *Great Courses **Screenwriting 101** Course*
+
+Also they must be **consistent, informing, and entertaining.**
+
+## Specific Guidelines
+
 - Keep videos short: 3-5 mins
-- Considering doing two versions of each episode:
+
+- Explain any jargon words
+  - Tell people to leave a comment if they don't understand something
+
+- Do two versions of each episode:
   - One Explicit/Salty
   - One Clean
+  - This plays into my self-censorship with regards to the term *"D\*mmies"* 
+
 - End with something fun
   - Learning the techie stuff just sort of takes all the passion out
   - Offer encouragement, try to get the blood flowing again
