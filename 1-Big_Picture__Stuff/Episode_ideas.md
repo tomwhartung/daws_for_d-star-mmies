@@ -4,13 +4,17 @@
 ## Introductory Episodes
 
 - Welcome to DAWS for D\*mmies
-- About Me
+- About My Background
   - I am not a d\*mmy!!!
+- About Me
+  - Please leave a comment if I use a jargony word or somehow offend you
 
 ## Techie Stuff
 
 - Jargon
+  - Please leave a comment if I use a jargony word at any time
 - Hardware
+  - This is where I mention the whole Komplete Kontrol FUBAR
 - Operating Systems
 - Software
 
