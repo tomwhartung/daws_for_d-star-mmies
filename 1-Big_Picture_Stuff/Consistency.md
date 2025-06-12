@@ -29,10 +29,11 @@ Also they must be **consistent, informing, and entertaining.**
     - **Try to be humourous, make it entertaining, like Lewis Black**
     - Perhaps a fun quote, historical anectdote, review, etc.
   - Considering doing this while wearing my:
-    - *Daft Punky Grateful Dead Motorcyle Rant Helmet*
+    - *Daft Punky Grateful Dead Ramblin Rant Helmet*
   - Maybe call it my:
-    - *"Daft Punky Grateful Dead Rant Helmet Segment"*
+    - *"Daft Punky Grateful Dead Ramblin Rant Segment"*
   - Maybe end it with a *"Homework Assignment"*
+    - *"Your mission, should you choose to accept it, is to"*
     - For example, in the first episode assign watching the movie
 [*Daft Punk Unchained*](https://www.imdb.com/title/tt3833822) as "Homework"
 
