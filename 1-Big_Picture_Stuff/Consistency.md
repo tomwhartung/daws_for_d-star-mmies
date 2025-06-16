@@ -1,20 +1,31 @@
 
 # Consistency.md
 
-## Big Picture
+## Big Picture Guidelines
 
 I want to do a series, rather like a TV series.  The pilot must set the tone, etc:
 
--  See the *Great Courses **Screenwriting 101** Course*
+- Ideas from the *Great Courses **Screenwriting 101** Lectures*
+  - Lecture 16: *Pulp Fiction*
+    - Collages - Surrealism - tying random bits together
+    - Finding consistency through endings that have a similar structure and tone
+    - *"Keep it surreal, Bitches!"*
+  - Lecture 19: *Film versus Television*
+    - Need an engine, rooted in conflict, to keep a series going
+    - The Conflict: Humans versus Computers
 
-Also they must be **consistent, informing, and entertaining.**
+## Important
+
+- Videos must be **consistent, informing, and entertaining.**
+- Explain any jargon words
+  - Tell people to leave a comment if they don't understand something
+
 
 ## Specific Guidelines
 
-- Keep videos short: 3-5 mins
-
-- Explain any jargon words
-  - Tell people to leave a comment if they don't understand something
+- Keep videos short
+  - Length: 3-6 mins
+  - Topics: 3-5 *ideas*
 
 - Do two versions of each episode:
   - One Explicit/Salty
