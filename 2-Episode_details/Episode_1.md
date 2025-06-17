@@ -7,7 +7,7 @@ It is where we establish the main characters - and the conflict between them - t
 
 ## Opening Dialog - Introducing Your Humble Narrator
 
-Paying tribute to Star Wars here, I am.
+Paying tribute to the R. Stones and Star Wars here, I am.
 
 "Please allow me to introduce myself!
 
