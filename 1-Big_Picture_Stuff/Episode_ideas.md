@@ -40,6 +40,7 @@
       - Answer a questionnaire (find them online)
       - Or just think about these terms when you feel out-of-place with others
     - Figure out how to use your strongest/weakest trait as an asset rather than a liability
+    - This series is my attempt to use my Extreme Openness as a Super-power
 - About Me
   - Technical
     - Programmer for much of 1976-2020
