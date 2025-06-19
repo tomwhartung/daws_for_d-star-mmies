@@ -3,7 +3,15 @@
 
 ## Big Picture Guidelines
 
-I want to do a series, rather like a TV series.  The pilot must set the tone, etc:
+I want to break this content up into a series of independent Parts, each of which
+contains a set of related content.
+
+These parts should build upon one another, but allow visitors who are in a rush to
+solve a specific problem to quickly find the tidbit of information that they seek.
+
+- Part 1: Introduction
+  - Purpose: give the subsequent parts context
+  - Audience: all
 
 - Ideas from the *Great Courses **Screenwriting 101** Lectures*
   - Lecture 16: *Pulp Fiction*
