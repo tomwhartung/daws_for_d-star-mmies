@@ -1,5 +1,5 @@
 
-# 4-Episode_outlines.md
+# 3-Episode_outlines.md
 
 The first episode needs to establish the conflict, and the last episode needs to resolve it,
 at least temporarily.
