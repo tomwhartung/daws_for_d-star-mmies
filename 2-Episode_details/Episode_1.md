@@ -1,6 +1,22 @@
 
 # Episode_1.md
 
+# New: Suggested Dialog
+
+## Welcome
+
+Welcome to DAWs (Digital Audio Workstations) for First Timers!
+Of course, beginners, newbies, DAW virgins, *absolute* beginners, *"d-star-mmies"*,
+and *"d-word-ies"* are also welcome here - but don't ever fucking say *"d*mmies"*!!
+Because I am *not* one of *those*, and would never call *you* that, **ever!**
+
+## Me/mí/moi
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+# Old Ideas - Review and Edit
+
 The pilot is the most important episode.
 
 It is where we establish the main characters - and the conflict between them - that drives the entire series.
