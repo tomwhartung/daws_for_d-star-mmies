@@ -63,4 +63,25 @@ Specific content is TBD at this time.
 Specific content is TBD at this time.
 
 - Purpose: Go out with a bang!
+- Ideas:
+  - Define terms: Virtual Instruments, VST2, VST3, other virtual* terms
+  - Define terms: Plugin, Preset, other similar terms
+  - A good time to recommend the *Great Courses How to Play Piano* class
+  - A good time to recommend the *Great Courses Music Theory* class
+  - A good time to recommend the *Daft Punk Unchained* movie
+    - Introduce Harry the Helmet
+    - Discuss inspiration and staying inspired
+    - Emphasize RTFM
+      - I believe they mention in the movie that one of them RTFMed every 6 weeks?
+    - Nile Rogers' tip on starting songs with bass and drums
+      - Ozzie Osbourne's tip of jamming until you get a good riff, then pull that out as something to start with
+      - A good time to recommend Kanopy
+  - Play a song
+    - Maybe sing or play guitar or both?!?!
+  - Request comments containing topics for additional episodes
+    - Robot voice
+    - Looping
+    - Something you think is cool, or fun to play with
+    - Something you may have struggled to do, but turned out to be easy once you figured it out
+      - If it's something I'd like to do, then I could share it with the others - and of course give you credit for the idea!
 
