@@ -12,6 +12,7 @@ age or experience or getting off track and trying to be cute or surrealistic or 
   -  Techie tips
   -  Get sound out of their KB Controller
   -  Record midi and voice
+  -  Try to make the videos interesting and *fun*
 - 1. Get familiar with these basics so that they become second nature
   -  We may find we want to cover some additonal topics: quantization, robot voice, etc.
 - 1. Maybe, *maybe* try to make some money off affiliate marketing
